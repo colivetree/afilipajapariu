@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Ainda não!" />
+        <img src="/nunaopaizao.jpg"/>
       </main>
 
       <Footer />
